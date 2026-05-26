@@ -133,7 +133,7 @@ int main(){
         }
     }
 
-    printf("- You left!\n\n(°v°)\n\n");
+    printf("- You left!\n(0w0)\n\n");
 
     return 0;
 }
